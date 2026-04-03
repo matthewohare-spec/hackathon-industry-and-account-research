@@ -7,7 +7,7 @@
 
 AEs and SDRs aren't experts across every industry — but they need to sound like they are. Building credibility with a CFO at a 3PL company requires very different knowledge than selling to a Controller at a construction firm. That research is time-consuming, scattered across multiple sites, and has to be manually translated into something a rep can actually use on a call or in an email.
 
-On average, reps spend **1–3 hours per account** gathering this context before a call. New hires spend even more time trying to ramp on industries they've never sold into.
+On average, reps can spend **1–3 hours per week** gathering this context. New hires spend even more time trying to ramp on industries they've never sold into.
 
 ---
 
