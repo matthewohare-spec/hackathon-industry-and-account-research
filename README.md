@@ -1,6 +1,8 @@
 # Industry & Account Research Workflow
 **Vic.ai Hackathon Project — Built by Matt O'Hare**
 
+https://www.loom.com/share/7661d715210a4da0a8ff5f5f824bfefc
+
 ---
 
 ## The Problem
